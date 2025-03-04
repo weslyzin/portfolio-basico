@@ -88,7 +88,7 @@ header {
 }
 
 .social-media a {
-  font-size: 10.5rem; /* Aumenta o tamanho dos ícones */
+  font-size: 18rem; /* Aumenta o tamanho dos ícones */
   color: var(--main-color); /* Cor dos ícones */
   transition: transform 0.3s ease, color 0.3s ease;
 }
