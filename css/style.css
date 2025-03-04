@@ -225,7 +225,6 @@ span {
 .linguagens i {
   align-items: center;
   font-size: 40px;
-  background-color: #39ff14;
   margin: 10px;
   transition: box-shadow 0.3s ease,transform 0.3s ease;
 }
