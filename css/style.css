@@ -226,10 +226,11 @@ span {
   align-items: center;
   font-size: 40px;
   margin: 10px;
-  transition: transform 0.3s;
+  transition: box-shadow 0.3s ease,transform 0.3s ease;
 }
 
 .linguagens i:hover {
+  box-shadow: 0 0 15px rgba(52, 1152, 219, 0.8);
   transform: scale(1.5);
 }
 
