@@ -225,6 +225,7 @@ span {
 .linguagens i {
   align-items: center;
   font-size: 40px;
+  background-color: #39ff14;
   margin: 10px;
   transition: box-shadow 0.3s ease,transform 0.3s ease;
 }
@@ -232,7 +233,7 @@ span {
 .linguagens i:hover {
   box-shadow: 0 0 15px rgba(142, 68, 173, 0.8);
   transform: scale(1.5);
-  backgroound-color #a569db;
+  backgroound-color: #32cd32;
 }
 
 /* Responsividade */
